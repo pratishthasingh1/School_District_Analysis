@@ -33,16 +33,25 @@ With reading scores, the difference was that the score increased slightly.
 ![Reading_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/reading_school_no_ninth.png?raw=true)
 
 ### Scores by school spending
+There was no change. 
+
 ![Spending_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/spending_ninth.png?raw=true)
 
 ![Spending_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/spending_no_ninth.png?raw=true)
 
 ### Scores by school size
+Overall, math percentage increased, reading percentage decreased. 
+
 ![Size_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/size_ninth.png?raw=true)
 
 ![Size_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/size_no_ninth.png?raw=true)
 
 ### Scores by school type
+There was no significant change in the school type.
 ![type_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/type.png?raw=true)
 
 ### Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1. 9th graders were no longer being counted, which means their scores were being inputed as "0"
+2. Total values were skewed because 9th graders still had student names that were being counted, so the percentage decreased.
+3. Once the total values were edited to only have 10-12th graders, the percentage went back to a value that made sense.
+4. District and school summary showed the biggest differences, otherwise within each category, the overall passing percentage was also affected significantly.
