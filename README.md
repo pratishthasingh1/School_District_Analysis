@@ -21,8 +21,15 @@ This is before and after replacing reading scores:
 
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
-Math: 
-![Math_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/THS_grade_math_ninth.png?raw=true)
+
+![Math_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/math_school_ninth.png?raw=true)
+
+![Math_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/math_school_no_ninth.png?raw=true)
+
+![Reading_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/reading_school_ninth.png?raw=true)
+
+![Reading_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/reading_school_no_ninth.png?raw=true)
+
 ### Scores by school spending
 Remains the same.
 
