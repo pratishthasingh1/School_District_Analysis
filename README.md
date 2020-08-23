@@ -17,8 +17,8 @@ When the grades 10-12 are only being analyzed, the percentage increases to almos
 Thomas High School did better compared to other schools when ninth graders's overall passing grades were included into the analysis.
 Thomas High School before and after replacing ninth graders' math and reading scores: 
 
-### How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+## How does replacing the ninth-grade scores affect the following:
+### Math and reading scores by grade
 It doesn't affect the math and reading scores of each grade when the ninth grade is taken out because each grade level has separate overall percentages. 
 
 ### Scores by school spending
