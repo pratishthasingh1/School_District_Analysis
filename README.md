@@ -21,6 +21,8 @@ This is before and after replacing reading scores:
 
 ## How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
+With math scores, the difference was that the score decreased slightly.
+With reading scores, the difference was that the score increased slightly. 
 
 ![Math_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/math_school_ninth.png?raw=true)
 
@@ -31,12 +33,16 @@ This is before and after replacing reading scores:
 ![Reading_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/reading_school_no_ninth.png?raw=true)
 
 ### Scores by school spending
-Remains the same.
+![Spending_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/spending_ninth.png?raw=true)
+
+![Spending_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/spending_no_ninth.png?raw=true)
 
 ### Scores by school size
-Remains the same. 
+![Size_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/size_ninth.png?raw=true)
+
+![Size_without_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/size_no_ninth.png?raw=true)
 
 ### Scores by school type
-Remains the same 
+![type_with_ninth](https://github.com/pratishthasingh1/School_District_Analysis/blob/master/Resources/type.png?raw=true)
 
 ### Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
