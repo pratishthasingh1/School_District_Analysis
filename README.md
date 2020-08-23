@@ -4,7 +4,7 @@ A school board revealed that a file (students_complete.csv) showed evidence of a
 An analysis was done to see the full extent of this academic dishonesty. To perform the analysis, the 9th grade values were nulled to see how the district summary would be affected. 
 
 ## Method 
-To show a difference between the two datasets: one with the 9th graders, and one not including the ninth graders, I ran two PyCity Jupyter Notebooks. One, I included the 9-12th grade values, and in one only the 10-12th grade values were looked at. Below, I will be posting the differences I found in the two notebooks.
+To show a difference between the two datasets: one with the 9th graders, and one not including the ninth graders, I ran two PyCity Jupyter Notebooks. One, I included the 9-12th grade values, and in one only the 10-12th grade values were looked at. Below, I will be posting the differences I found in the two notebooks. First image will always represent the findings without 9th graders and the following picture will show the chart including the 9th graders. 
 
 ## Results
 ### How is the district summary affected?
